@@ -1,3 +1,21 @@
+# Projet Informatique de Licence 3 Semestre pair : 
+## l'Age de pierre | *Groupe : SAH | Pseudo : Mentra20*
+
+Mon projet de Licence 3 portant sur le jeu [L'Age de pierre](https://www.philibertnet.com/fr/jeux-de-societe/8136-age-de-pierre-l--8435407629387.html).  
+### [Le syllabus du cours](https://github.com/Mentra20/StoneAge/blob/master/doc/Syllabus.pdf).
+
+#### Concerant le repository github du projet : 
+Le projet consistait à recréer le jeu version console avec différentes IA jouant les unes contres les autres (pas de graphique, pas de vrai joueur).  
+Le projet est entièrement en java et inclus un Maven Project.  
+Dans le repository du projet vous trouverez les itérations que mon groupe et moi même avons choisis de faire ainsi que le code source de notre jeu. Egalement toutes les issues (close) utilisées dans un kanban pour la répartition du travail.   
+Dans l'onglet contributor vous trouverez la répartition globale du travail de chacun dans le projet en ajout et suppression de code ainsi que le nombre de commits (Mon pseudo : Mentra20).  
+Tout les détails de l'UE sont contenues dans le syllabus.
+
+#### Vous pouvez trouvez les règles du jeu [ici](https://github.com/Mentra20/StoneAge/blob/master/doc/lage-de-pierre-regle.pdf) les cartes batiments [ici](https://github.com/Mentra20/StoneAge/blob/master/doc/batiments.pdf) et cartes civilisations [là](https://github.com/Mentra20/StoneAge/blob/master/doc/Cartecivilisation.pdf) ainsi que leur [effets](ttps://github.com/Mentra20/StoneAge/blob/master/doc/description_carte.pdf) à chacunes.  
+
+#### Le projet fut présenté devant un jury de 4 professeurs d'informatique. [(les diapositives de la présentation)](https://github.com/Mentra20/StoneAge/blob/master/doc/DiaposPresentation.pdf).
+ 
+
 # projetinfo-2019-stoneage-sah  
 projetinfo-2019-stoneage-sah created by GitHub Classroom  
   
