@@ -1,5 +1,6 @@
 # Licence 3 IT project even semester : 
 Stone Age (l'Age de pierre) | *Groupe : SAH | Pseudo : Mentra20 (now YannMartinDes)*
+![image](https://github.com/user-attachments/assets/93ec8f5b-1fb5-40b8-a0e8-ac6cb990a29a)
 
 ## Context : 
 The project consisted of recreating the console version of the game [L'Age de pierre](https://www.philibertnet.com/fr/jeux-de-societe/8136-age-de-pierre-l--8435407629387.html) with different AI playing against each other (no graphics, no real players). Statistics have also been added.  
