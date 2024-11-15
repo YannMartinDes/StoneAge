@@ -23,6 +23,10 @@ use `mvn tes` for running tests.
 _Notes: Some tests may failed if you runned in a recent java version_
 
 # Screenshots 
+![Capture d'écran 2024-11-15 211336](https://github.com/user-attachments/assets/043a7852-79eb-4d1b-9ca4-788677a26f37)
+![Capture d'écran 2024-11-15 211417](https://github.com/user-attachments/assets/f376267a-19b8-45d6-9b89-91b6db96d055)
+![Capture d'écran 2024-11-15 211601](https://github.com/user-attachments/assets/b60f92c1-4ff2-4445-9f20-86c21a9e7aa2)
+![téléchargement](https://github.com/user-attachments/assets/b91c5e91-a6a3-47a0-8903-b5d614f05425)
 
 
 # Iterations
