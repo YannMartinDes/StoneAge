@@ -104,7 +104,7 @@
               				<goal>java</goal>
             			</goals>
             			<configuration>
-              				<mainClass>main.Progam</mainClass>
+              				<mainClass>main.Program</mainClass>
               				<!-- arguments récupérés dans le main -->
                     		<arguments>
                             	<argument>4</argument> <!-- Nombre de joueur -->
@@ -117,7 +117,7 @@
               				<goal>java</goal>
             			</goals>
             			<configuration>
-              				<mainClass>main.ProgamStatistique</mainClass>
+              				<mainClass>main.ProgramStatistique</mainClass>
               				<!-- arguments récupérés dans le main -->
                     		<arguments>
                             	<argument>4</argument> <!-- Nombre de joueur -->
@@ -126,7 +126,7 @@
           			</execution>
     			</executions>
  				<configuration>
-            		<mainClass>main.Progam</mainClass>  <!-- exécution par défaut -->
+            		<mainClass>main.Program</mainClass>  <!-- exécution par défaut -->
             		<!-- arguments récupérés dans le main -->
                 	<arguments>
                			<argument>4</argument> <!-- Nombre de joueur -->
